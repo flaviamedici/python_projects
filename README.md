@@ -9,4 +9,4 @@ Dictionary API created from csv file with words and meaning
 Created a plot graphic based on csv file listing countries and different measurements for happiness
 
 ### Mood Analysis   
-Snetinment Analysis based on diary entries
+Sentinment Analysis based on diary entries
